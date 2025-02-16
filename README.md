@@ -6,6 +6,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Prime-SK/count.svg?"  />
+</div>
+
+###
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prime.S.K.2001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_____.s.k.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thathsara-shakila) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@_____.s.k.__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThathsaraSK) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@prime.s.k) 
 

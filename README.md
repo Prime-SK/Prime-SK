@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Dark Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:bf00ff&height=200&section=header&text=THATHSARA%20SHAKILA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Tech%20Explorer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:bf00ff&height=200&section=header&text=Shakila%20Thathsara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Tech%20Explorer&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=Hey+there+%F0%9F%91%8B+I'm+Thathsara;Full+Stack+Developer+%7C+Creative+Coder;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" /></a>
